@@ -18,7 +18,7 @@ Installation
 Clone the Repository:
 
 Bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name](https://github.com/Yaswanth-Boggarapu/StreamlitQABot/).git
 Use code with caution.
 
 Install Dependencies:
